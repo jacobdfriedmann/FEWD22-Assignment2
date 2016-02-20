@@ -1,5 +1,14 @@
 body {
-	font-family: helvetica, sans-serif;
+	font-family: lato, helvetica, sans-serif;
+	font-weight: 300;
 	background-color: blue;
-	colour: white;
+	color: white;
+}
+
+h1 {
+	font-transform: uppercase;
+}
+
+ul {
+   list-style-type: none;
 }
