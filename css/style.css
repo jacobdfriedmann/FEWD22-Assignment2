@@ -1,5 +1,9 @@
 body {
-	font-family: helvetica, sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	background-color: blue;
-	colour: white;
+	color: #fff;
+}
+
+ul {
+	list-style: none;
 }

@@ -18,12 +18,12 @@ Your assignment this week is to demonstrate your ability to use GitHub workflows
 
 ###Technical Requirements
 
-- Fix broken css `<link>` tag
-- Fix invalid HTML
-- Add valid `<meta>` tags
-- Remove bullets from `<ul>` list
-- Fix the text color for the page
-- Submit a pull request with all of these changes
+- Fix broken css `<link>` tag /* Added in proper path "css/style.css" and type="text/css"
+- Fix invalid HTML /* fixed missing tags, etc */
+- Add valid `<meta>` tags /* Added meta tags to highlight keywords and description of site and content type */
+- Remove bullets from `<ul>` list /* Set list-style to none to remove bullets and got rid of uncessary <p> tag*/
+- Fix the text color for the page /* Fixed the spelling of color from colour and made it hex.  */
+- Submit a pull request with all of these changes 
 - Explain in the pull request how you fixed each issue
 
 ---
