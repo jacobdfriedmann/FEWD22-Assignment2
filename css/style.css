@@ -1,5 +1,11 @@
 body {
 	font-family: helvetica, sans-serif;
 	background-color: blue;
-	colour: white;
+	color: white;
+}
+footer {
+	font-family: helvetica, sans-serif;
+	color: white;
+	font-size: small; 
+
 }
